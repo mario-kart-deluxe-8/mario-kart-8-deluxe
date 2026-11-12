@@ -8,7 +8,7 @@
 
 Looking for a reliable way to run and optimize **Mario Kart 8 Deluxe NSP** across supported emulation environments? This comprehensive guide covers everything you need to know about the base package, Booster Course Pass updates, file structure, compatibility, and setup walkthroughs.
 
-## [⚡ Download Mario Kart 8 Deluxe ⚡](https://mario-kart-deluxe-8.github.io/mario-kart-8-deluxe/)
+## [⚡ Download Mario Kart 8 Deluxe — NSP/XCI⚡](https://mario-kart-deluxe-8.github.io/mario-kart-8-deluxe/)
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fb2606c1-eb30-4aa7-8aac-97141a919745" />
 
